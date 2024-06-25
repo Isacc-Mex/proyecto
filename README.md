@@ -104,8 +104,8 @@ Estas son utilizadas para redirigir a archivos o secciones dentro o fuera de nue
 
 Mi buscador favorito es: [GOOGLE] (https://www.google.com)
 
-Esta documentacion fue creada por **Jose de Jesus Hdz. Casiano**
-<casianojose.24@gmail.com>
+Esta documentacion fue creada por **Cristian Isacc Moreno Jimenéz**
+<Cristianisaccjimenez@gmail.com>
 
 ## 8. Tablas (TABLES)
 
